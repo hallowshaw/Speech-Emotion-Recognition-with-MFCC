@@ -39,11 +39,13 @@ pip install numpy librosa matplotlib scikit-learn seaborn
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## Acknowledgments
 Inspiration for the project from various open-source emotion recognition research.  
-Thanks to the creators of the datasets and libraries used in this project.
+I took help from [this Kaggle notebook on Speech Emotion Recognition](https://www.kaggle.com/code/shivamburnwal/speech-emotion-recognition).
+
+
 
 
 
